@@ -1,0 +1,6 @@
+{
+  "name": "ZÉLIA Parfums",
+  "description": "ZÉLIA Parfums — A scent that lingers long after you leave. Handcrafted luxury fragrances blending warm amber, rare petals, and timeless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
